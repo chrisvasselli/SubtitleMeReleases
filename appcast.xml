@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Subtitle Me</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Tue, 15 Oct 2024 10:55:59 +0900</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.2.zip" length="3030456" type="application/octet-stream" sparkle:edSignature="G0tmYzPNWY9D1Tdi6T3NDxuZxDGb/h1vQ+NJHWqE++NchV+8oAECT5JQQM43ao2vCWfyNfwQ22lSBDvX3BfuBg=="/>
+        </item>
+    </channel>
+</rss>
