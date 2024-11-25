@@ -3,6 +3,19 @@
     <channel>
         <title>Subtitle Me</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Mon, 25 Nov 2024 11:27:26 +0900</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.2.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.2.2.zip" length="3032267" type="application/octet-stream" sparkle:edSignature="w0RlYYlFPTz3oUOIOeHysgH5wNB/pQi+pUGGTAl4lIOUovLKHcTYzkxdrXHT0T76N2X6rxefVWmV1RBH+m/dBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me19-18.delta" sparkle:deltaFrom="18" length="62450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6mUx16BwnFqlxpntg8yP7w0eRwfWMcF9vlFdHo3qOx2w8RbAIeBBm9XLiv8L0MATSUmRDl4EckOTvxzj9dZeDw=="/>
+                <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me19-16.delta" sparkle:deltaFrom="16" length="63514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2Cp1+RrN2j2ZEi19b4bSGJnoRrkQ2TxXdj8Pt0oE314f6D7TVZYuAvTLl3pCvxhMe7TuZxvqzFQaen/IdwtaBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Fri, 25 Oct 2024 12:06:50 +0900</pubDate>
             <sparkle:version>18</sparkle:version>
