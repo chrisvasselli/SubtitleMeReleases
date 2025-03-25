@@ -8,7 +8,8 @@
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me.v1.3.3.zip" length="4243501" type="application/octet-stream" sparkle:edSignature="SarzENNTu5wuCJ50F4w3b+KQCPCYZzT//t45JwGIPkdTMmDsCulzZlPoIs7oTUXhCg7bN3AGC6Be2lc/pAsOCw=="/>
+            <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.3.3.zip" length="4243501" type="application/octet-stream" sparkle:edSignature="SarzENNTu5wuCJ50F4w3b+KQCPCYZzT//t45JwGIPkdTMmDsCulzZlPoIs7oTUXhCg7bN3AGC6Be2lc/pAsOCw=="/>
+            <sparkle:releaseNotesLink>https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.3.3.html</sparkle:releaseNotesLink>
         </item>
         <item>
             <title>1.3.2</title>
