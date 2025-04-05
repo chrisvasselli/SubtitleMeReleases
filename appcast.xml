@@ -3,6 +3,22 @@
     <channel>
         <title>Subtitle Me</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Fri, 04 Apr 2025 20:05:22 +0900</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.4.html</sparkle:releaseNotesLink>
+            <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.4.zip" length="4439303" type="application/octet-stream" sparkle:edSignature="RHpUTiaZbZXx/a7IejlgM8pkIPiuGnE/iElwdt1kdHhvj5Za4VnqlAyHsbyRsuG1ulFUY4NFfiUMzGxpXlh7AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me48-45.delta" sparkle:deltaFrom="45" length="755372" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="phemw+Td6DletzjqyOWs82FLrK5DCFH5k1LvLlS1Mt2Q0rOem6/PTxUqQkS5y584/crdalOVb4MM8GUpaNowDg=="/>
+                <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me48-43.delta" sparkle:deltaFrom="43" length="759102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Ky+xXAczgf3knZOcec86ufD6X5PeXIO85WtfRoxHTG2gKmi93wQh0fo5dxxtgkiBRJW+D+JIwYtgRN5YA7x7Bw=="/>
+                <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me48-38.delta" sparkle:deltaFrom="38" length="758709" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XF6s98lLXWOxZbVxBlbrmwcw5TjjmDOmVJ9vFjCCqwOxpIhapjBi78EUicZBHj2q7JShnzLLUWXpQK/joQhOAw=="/>
+                <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me48-36.delta" sparkle:deltaFrom="36" length="789319" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="X0Jp+WC8+K72L9bxsCMeX3uuAArbQH8B1GG2JDJ4Ldj9hE7MBStt01k50ZsIwAs7AM8W58d1X1ep9xenS47PBg=="/>
+                <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me48-33.delta" sparkle:deltaFrom="33" length="780598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ItTDmo/imjZv6gFK7OKk2DR8Ag188022S9PlEe1GgX1EGk22xLOxJ8fPtQTr+b9+0H9CyFp39YWyXs2hkcJtCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.5</title>
             <pubDate>Thu, 27 Mar 2025 10:47:12 +0900</pubDate>
             <sparkle:version>45</sparkle:version>
@@ -33,15 +49,6 @@
                 <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me43-32.delta" sparkle:deltaFrom="32" length="280947" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aGgc/v+dUxww/pYgsb888sEqzYS2sM3rWh9609TlL1bAE+4gz+SY00bUTQFhEQN13qiBYh8yKwZ71eD2AWLnDA=="/>
                 <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me43-22.delta" sparkle:deltaFrom="22" length="1400329" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="J0UMPyOXBqgMLQaPP/jDlry8rthj1y1zGqtmtisgpi6q0h+Vq2vbHiCC8a650qWod+eUx+bMDSb5WEr+BZ+MBA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.3</title>
-            <pubDate>Mon, 24 Mar 2025 13:13:18 +0900</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.3.3.zip" length="4243501" type="application/octet-stream" sparkle:edSignature="SarzENNTu5wuCJ50F4w3b+KQCPCYZzT//t45JwGIPkdTMmDsCulzZlPoIs7oTUXhCg7bN3AGC6Be2lc/pAsOCw=="/>
-            <sparkle:releaseNotesLink>https://chrisvasselli.github.io/SubtitleMeReleases/Subtitle%20Me%20v1.3.3.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
